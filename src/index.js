@@ -28,4 +28,5 @@ aboutBtn.addEventListener("click", () => {
     clearContent()
     about();
 });
-console.log("index.js");
+
+home();
